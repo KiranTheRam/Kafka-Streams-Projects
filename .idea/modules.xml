@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kafka-Streams-Projects.iml" filepath="$PROJECT_DIR$/.idea/Kafka-Streams-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word-Count/Kafka-Word-Count.iml" filepath="$PROJECT_DIR$/Word-Count/Kafka-Word-Count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Favorite-Color/Kafka-Word-Count (1).iml" filepath="$PROJECT_DIR$/Favorite-Color/Kafka-Word-Count (1).iml" />
+    </modules>
+  </component>
+</project>
